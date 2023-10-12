@@ -1,0 +1,19 @@
+{
+  "name": "fc-desafio-pipe-ci-sonar",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "node index.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thorlan/fc-desafio-pipe-ci-sonar.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thorlan/fc-desafio-pipe-ci-sonar/issues"
+  },
+  "homepage": "https://github.com/thorlan/fc-desafio-pipe-ci-sonar#readme"
+}
